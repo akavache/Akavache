@@ -21,7 +21,7 @@
     <PackageReference Include="System.Net.Http" Version="4.3.4" />
     <PackageReference Include="SQLitePCLRaw.bundle_e_sqlite3" Version="2.0.4" />
     <PackageReference Include="FluentAssertions" Version="5.10.3" />
-    <PackageReference Include="DiffEngine" Version="6.8.2" />
+    <PackageReference Include="DiffEngine" Version="6.9.0" />
     <PackageReference Include="PublicApiGenerator" Version="10.2.0" />
     <PackageReference Include="coverlet.msbuild" Version="3.0.3">
       <PrivateAssets>all</PrivateAssets>
